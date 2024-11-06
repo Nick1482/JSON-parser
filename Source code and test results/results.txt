@@ -1,0 +1,70 @@
+
+Nota: se qualche test case non è in stato SUCCESS, il nome del test fallito
+vi dovrebbe dare un'idea di cosa andare a controllare nel vostro codice.
+Scrivete nuovi test approfonditi in base ai test falliti.
+In caso di errori di compilazione o segmentation fault, un'intera batteria
+di test può fallire. Se alcuni test case sono indicati come SKIPPED, probabilmente
+c'è stata una segmentation fault. Controllate anche il file log.txt per maggiori
+dettagli su errori di compilazione e interruzioni impreviste dei programmi.
+
+
+
+**** running test: boolean_functions ****
+
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases:  8 |  8 passed | 0 failed | 0 skipped
+[doctest] assertions: 48 | 48 passed | 0 failed |
+[doctest] Status: SUCCESS!
+
+
+**** running test: copy_move ****
+
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 4 | 4 passed | 0 failed | 0 skipped
+[doctest] assertions: 5 | 5 passed | 0 failed |
+[doctest] Status: SUCCESS!
+
+
+**** running test: exceptions ****
+
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 7 | 7 passed | 0 failed | 0 skipped
+[doctest] assertions: 7 | 7 passed | 0 failed |
+[doctest] Status: SUCCESS!
+
+
+**** running test: load_save_file ****
+
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 13 | 13 passed | 0 failed | 0 skipped
+[doctest] assertions: 13 | 13 passed | 0 failed |
+[doctest] Status: SUCCESS!
+
+
+**** running test: push_insert_iterators_operator[] ****
+
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases:  7 |  7 passed | 0 failed | 0 skipped
+[doctest] assertions: 34 | 34 passed | 0 failed |
+[doctest] Status: SUCCESS!
+
+
+**** running test: set_get_functions ****
+
+[doctest] doctest version is "2.4.11"
+[doctest] run with "--help" for options
+===============================================================================
+[doctest] test cases: 3 | 3 passed | 0 failed | 0 skipped
+[doctest] assertions: 6 | 6 passed | 0 failed |
+[doctest] Status: SUCCESS!
+
