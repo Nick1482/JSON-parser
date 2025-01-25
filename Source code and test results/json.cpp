@@ -1,6 +1,6 @@
 #include "json.hpp"
 
-//Classe che implementa un lista templatizzata per memorizzare il tipo lista e il tipo dizionario di json
+//Classe che implementa una lista templatizzata per memorizzare il tipo lista e il tipo dizionario di json
 template<typename T>
 class List
 {
